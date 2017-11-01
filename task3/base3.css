@@ -1,0 +1,38 @@
+body{
+	margin:0;
+}
+.bigbox{
+	height: 100%;
+	background-color: #68CDD5;
+}
+.box1{
+	padding-top: 2%;
+	padding-left: 2%;
+	padding-bottom: 2%
+}
+.box2{
+	
+	text-align: center
+}
+.box3{
+	color: FFFFFF;
+	padding: 10%;
+}
+.bottom{
+    text-align: center;	
+}
+.image{
+	padding-top: 3em;
+	padding-bottom: 3em;
+}
+.box4{
+	color: FFFFFF;
+	float: left;
+	margin-left: 10%;
+	}
+.box5{
+	color: FFFFFF;
+	float: right;
+	margin-right: 10%;
+	
+}
