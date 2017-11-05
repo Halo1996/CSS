@@ -46,20 +46,22 @@ body{
 .iphone input{
 	font-size:2rem; 
 	margin-left:2%;
+	padding-left: 12px;
 	outline:none;
 	border-right:hidden; 
 	border-top:hidden;
 	border-bottom:hidden;
-	padding-left:3%;
+	position: absolute;
 }
 .lock input{
 	font-size:2rem; 
 	margin-left:2%;
+	padding-left: 12px;
 	outline:none;
 	border-right:hidden; 
 	border-top:hidden;
 	border-bottom:hidden;
-	padding-left: 3%;
+	position: absolute;
 }
 .denglu{
 	width: 100%;
